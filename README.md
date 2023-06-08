@@ -8,12 +8,12 @@ Casa da Carne é um aplicativo estático desenvolvido em Flutter que fornece aos
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20de%20carregamento.jpeg" width="250">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20Home.jpeg" width="250">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20carnes.jpeg" width="250">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20promo%C3%A7%C3%B5es.jpeg" width="250">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20contato.jpeg" width="250">
-  <img src="https://github.com/TarcioPassosFreitas/CasaDaCarne/blob/main/Tela%20de%20erro%20de%20conex%C3%A3o.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20de%20carregamento.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20Home.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20carnes.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20promo%C3%A7%C3%B5es.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20contato.jpeg" width="250">
+  <img src="https://github.com/TarcioPassosFreitas/casa_da_carne/blob/main/Tela%20de%20erro%20de%20conex%C3%A3o.jpeg" width="250">
 </p>
 
 ## 🚀 Instalação
