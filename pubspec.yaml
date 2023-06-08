@@ -1,0 +1,51 @@
+name: casa_da_carne
+description: A new Flutter project.
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  curved_navigation_bar: ^0.3.7
+  convex_bottom_bar: ^3.0.0
+  carousel_slider: ^4.0.0
+  flutter_icons: ^1.1.0
+  flutter_iconpicker: ^3.0.1
+  connectivity: ^3.0.6
+  connectivity_plus: ^2.0.2
+  animated_widgets: ^1.0.1
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.9.2"
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/icon/icone.png"
+  adaptive_icon_foreground: "lib/assets/icon/icone.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/meat1.jpg
+    - lib/assets/images/meat2.jpg
+    - lib/assets/images/meat3.jpg
+    - lib/assets/images/fundo1.jpg
+    - lib/assets/images/fundo2.jpg
+    - lib/assets/images/fundo3.jpg
+    - lib/assets/images/logo.jpg
+    - lib/assets/icon/icone.png
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: lib/fonts/Pacifico-Regular.ttf
